@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
-
-from ..games.even_logic import get_task, issue
+from ..games.calc_logic import get_task, issue
 from ..games.logic_games import logic
 
 
