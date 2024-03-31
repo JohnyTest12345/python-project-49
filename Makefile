@@ -13,6 +13,9 @@ brain-calc:
 brain-nod:
 		poetry run brain-nod
 
+brain-progression:
+		poetry run brain-progression
+
 build:
 		poetry build
 
