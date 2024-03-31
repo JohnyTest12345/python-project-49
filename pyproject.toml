@@ -21,6 +21,7 @@ build-backend = "poetry.core.masonry.api"
 brain-games = "brain_games.scripts.brain_games:main"
 brain-even = "brain_games.scripts.brain_even:main"
 brain-calc = "brain_games.scripts.brain_calc:main"
+brain-nod = "brain_games.scripts.brain_nod:main"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.4.2"

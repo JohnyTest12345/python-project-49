@@ -10,6 +10,9 @@ brain-even:
 brain-calc:
 		poetry run brain-calc
 
+brain-nod:
+		poetry run brain-nod
+
 build:
 		poetry build
 
