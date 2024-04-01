@@ -21,4 +21,4 @@ def get_task():
 
 
 def issue():
-    return ('Answer "yes" if the number is even, otherwise answer "no".')
+    return ('What number is missing in the progression?')
