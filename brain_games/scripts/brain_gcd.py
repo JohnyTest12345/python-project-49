@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from ..games.nod_logic import get_task, issue
+from ..games.gcd_logic import get_task, issue
 from ..games.logic_games import logic
 
 
